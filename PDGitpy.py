@@ -1,2 +1,3 @@
 from math import*
-print(srt(225))
+print(sqrt(625))
+
